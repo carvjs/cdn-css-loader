@@ -6,6 +6,7 @@
   "homepage": "",
   "repository": "github:carvjs/cdn-css-loader",
   "author": "Sascha Tandel <s.tandel@kenoxa.de>",
+  "license": "MIT",
   "scripts": {
     "build": "nps build",
     "format": "nps format",
