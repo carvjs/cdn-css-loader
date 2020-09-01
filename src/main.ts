@@ -1,10 +1,10 @@
-export default function loadCss(href: string): Promise<string> {
+export default function loadCss(href: string): Promise<HTMLLinkElement> {
   return new Promise((resolve, reject) => {
     const element = document.createElement('link')
 
     // eslint-disable-next-line unicorn/prefer-add-event-listener
     element.onload = () => {
-      resolve(element.href)
+      resolve(element)
     }
 
     // eslint-disable-next-line unicorn/prefer-add-event-listener

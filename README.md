@@ -20,8 +20,7 @@
 ```js
 import loadCss from '@carv/cdn-css-loader'
 
-const url = await loadCss('./url/to/style.css')
-// full url like http://localhost/url/to/style.css
+const element = await loadCss('./url/to/style.css')
 ```
 
 ## Available Scripts

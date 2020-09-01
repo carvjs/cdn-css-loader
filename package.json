@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "description": "async loading of css files",
-  "homepage": "",
+  "homepage": "https:/github.com/carvjs/cdn-css-loader#readme",
   "repository": "github:carvjs/cdn-css-loader",
-  "author": "Sascha Tandel <s.tandel@kenoxa.de>",
   "license": "MIT",
+  "author": "Sascha Tandel <s.tandel@kenoxa.de>",
   "scripts": {
     "build": "nps build",
     "format": "nps format",
