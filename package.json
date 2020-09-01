@@ -1,6 +1,6 @@
 {
   "name": "@carv/cdn-css-loader",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "async loading of css files",
   "homepage": "https:/github.com/carvjs/cdn-css-loader#readme",
